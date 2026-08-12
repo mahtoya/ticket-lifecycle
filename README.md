@@ -26,7 +26,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<"C:\Users\NegativeSpore\OneDrive\Pictures\Camera Roll\Screenshot 2026-08-12 182341.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<<img width="1003" height="941" alt="Screenshot 2026-08-12 182341" src="https://github.com/user-attachments/assets/ca7cb5f5-4bd0-4b1b-95ad-71694b3095be" />
+/>
 </p>
 <p>This here is showing the creation of a ticket on OS Ticket.
 </p>
