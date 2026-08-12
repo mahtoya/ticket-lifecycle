@@ -34,7 +34,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <img width="969" height="947" alt="Screenshot 2026-08-12 184231" src="https://github.com/user-attachments/assets/70fea084-3f6c-4b20-9678-d22a2c740ff6" />
->
 </p>
 <p>
 This is showing the Assigning of the ticket and communicating with the ticket creator.
